@@ -25,7 +25,7 @@ import com.aabhas.rest.webservices.restfulwebservices.jwt.JwtTokenUtil;
 import com.aabhas.rest.webservices.restfulwebservices.jwt.JwtUserDetails;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://aabhas-jain.github.io")
 public class JwtAuthenticationRestController {
 
   @Value("${jwt.http.request.header}")

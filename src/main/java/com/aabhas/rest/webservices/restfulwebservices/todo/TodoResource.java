@@ -20,7 +20,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import com.aabhas.rest.webservices.restfulwebservices.todos.Todo;
 
 @RestController
-@CrossOrigin(origins="http://localhost:4200")
+@CrossOrigin(origins="https://aabhas-jain.github.io")
 public class TodoResource {
 	
 	@Autowired
