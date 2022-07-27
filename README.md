@@ -1,6 +1,6 @@
 # todo-app-backend
 
-This backend is basically for todo app APIs and buit using Spring Boot.
+This backend is basically for todo app APIs and built using Spring Boot.
 
 These Todo APIs are hosted in Heroku and used in front end React app.
 
